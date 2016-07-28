@@ -12,7 +12,7 @@ open source), **number of comments** (on commits, pull requests,
 and issues; a measure of the project’s social activity), **number 
 of issues opened**, **number of forks**, and **number of watchers**. 
 
-Then, for each quarter (at least 4 quarters of data per project, 
+Then, for each quarter (at least 2 quarters of data per project, 
 by construction), we compute the **project age** (in quarters), 
 the **number of female and male contributors**, the **genders** 
 and **countries** of team members (at least 75% resolved, by 
